@@ -8,5 +8,12 @@
     <artifactId>HBase</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.hbase</groupId>
+            <artifactId>hbase-client</artifactId>
+            <version>2.2.4</version>
+        </dependency>
+    </dependencies>
 
 </project>
